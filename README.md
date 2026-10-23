@@ -87,3 +87,10 @@ The analysis covers only two months of data. The results show observed patterns 
 **Tools:** MySQL, Power BI Desktop, DAX, Power Query
 
 **Skills:** SQL querying, data analysis, KPI creation, data visualization, dashboard development, and e-commerce analytics.
+
+## 10. Screenshots / Demos
+https://github.com/shreya9442/CART-ABANDONMENT-PATTERN-ANALYSIS/blob/main/Cart%20Behaviour%20Overview.png
+
+
+
+
