@@ -78,11 +78,7 @@ While working on this project, I practised writing SQL queries to analyze real-w
 
 This project helped me understand how raw data can be used to identify patterns in customer behavior and present the findings in a simple visual format.
 
-## 9. Limitations
-
-The analysis covers only two months of data. The results show observed patterns and do not prove the reasons behind customer behavior. Purchase rates based on event counts should also not be treated as actual cart conversion rates.
-
-## 10. Tools and Skills
+## 9. Tools and Skills
 
 **Tools:** MySQL, Power BI Desktop, DAX, Power Query
 
