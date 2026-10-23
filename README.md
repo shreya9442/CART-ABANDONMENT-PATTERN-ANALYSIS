@@ -90,6 +90,7 @@ The analysis covers only two months of data. The results show observed patterns 
 
 ## 10. Screenshots / Demos
 https://github.com/shreya9442/CART-ABANDONMENT-PATTERN-ANALYSIS/blob/main/Cart%20Behaviour%20Overview.png
+
 https://github.com/shreya9442/CART-ABANDONMENT-PATTERN-ANALYSIS/blob/main/Product%20%26%20Cart%20Behaviour%20Analysis.png
 
 
